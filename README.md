@@ -22,7 +22,7 @@ Repositorio personal de notas, writeups y técnicas utilizadas en máquinas de H
 
 ## 🛠 Notas y Cheatsheets
 
-- [Pentesting Notes](Pentesting-Notes.md)
+- [Pentesting Notes](HackTheBox/Pentesting-Notes.md)
 
 ---
 
